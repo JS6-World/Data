@@ -71,7 +71,7 @@ Genres are a pipe-separated list, and are selected from the following:
 - War
 - Western
 - (no genres listed)
-- Links Data File Structure (links.csv)
+Links Data File Structure (links.csv)
 Identifiers that can be used to link to other sources of movie data are contained in the file links.csv. Each line of this file after the header row represents one movie, and has the following format:
 
 ``` movieId, imdbId, tmdbId```
